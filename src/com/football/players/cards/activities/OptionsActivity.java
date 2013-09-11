@@ -13,7 +13,7 @@ public class OptionsActivity extends Activity {
 
 	private MediaPlayer buttonClick;
 
-	private final static String SOUNDS_BUTTON_STATE = "soundsButtonState";
+	private final static String SOUNDS_BUTTON_STATE = "soundsButtonStatae";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
