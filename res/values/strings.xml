@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Football Players Cards</string>
+    <string name="mainMenu_newGame">New Game</string>
+    <string name="mainMenu_options">Options</string>
+    <string name="mainMenu_howToPlay">How To Play</string>
+    <string name="mainMenu_authors">Authors</string>
+    <string name="optionsMenu_soundOnOff">Sounds</string>
 </resources>
