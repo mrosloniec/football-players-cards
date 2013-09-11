@@ -1,4 +1,4 @@
-package com.football.players.cards.activities;
+package com.football.wars.activities;
 
 import android.app.Activity;
 import android.media.MediaPlayer;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.Switch;
-import com.football.players.cards.R;
+import com.football.wars.R;
 
 public class OptionsActivity extends Activity {
 

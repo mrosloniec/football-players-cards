@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Karty graczy</string>
+    <string name="app_name">Football Wars</string>
     <string name="mainMenu_newGame">Nowa gra</string>
     <string name="mainMenu_options">Opcje</string>
     <string name="mainMenu_howToPlay">Jak grać</string>
     <string name="mainMenu_authors">Autorzy</string>
-<<<<<<< HEAD
     <string name="optionsMenu_soundOnOff">Dźwięki</string>
-=======
->>>>>>> 8be13b3a9f67ca86db8eb7824d7b3bd1d6d027a1
 </resources>
