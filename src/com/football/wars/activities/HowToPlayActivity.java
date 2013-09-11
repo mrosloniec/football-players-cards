@@ -1,4 +1,4 @@
-package com.football.players.cards.activities;
+package com.football.wars.activities;
 
 import android.app.Activity;
 
