@@ -64,7 +64,6 @@ public class OptionsActivity extends Activity {
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
-		buttonClick.release();
 	}
 
 
