@@ -6,4 +6,12 @@
     <string name="mainMenu_howToPlay">How To Play</string>
     <string name="mainMenu_authors">Authors</string>
     <string name="optionsMenu_soundOnOff">Sounds</string>
+    <string name="gameMenu_play">Play!</string>
+    <string name="gameMenu_winner">You won</string>
+    <string name="gameMenu_looser">You lost</string>
+    <string name="gameMenu_draw">Draw</string>
+    <string name="gameMenu_playerSkills_attack">Attack</string>
+    <string name="gameMenu_playerSkills_defense">Defense</string>
+    <string name="gameMenu_player1score">Your score:</string>
+    <string name="gameMenu_player2score">Opponent score:</string>
 </resources>

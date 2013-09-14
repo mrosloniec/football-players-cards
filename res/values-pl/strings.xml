@@ -6,4 +6,12 @@
     <string name="mainMenu_howToPlay">Jak grać</string>
     <string name="mainMenu_authors">Autorzy</string>
     <string name="optionsMenu_soundOnOff">Dźwięki</string>
+    <string name="gameMenu_play">Graj!</string>
+    <string name="gameMenu_winner">Wygrałeś</string>
+    <string name="gameMenu_looser">Przegrałeś</string>
+    <string name="gameMenu_draw">Remis</string>
+    <string name="gameMenu_playerSkills_attack">Atak</string>
+    <string name="gameMenu_playerSkills_defense">Obrona</string>
+    <string name="gameMenu_player1score">Twój wynik:</string>
+    <string name="gameMenu_player2score">Wynik przeciwnika:</string>
 </resources>
