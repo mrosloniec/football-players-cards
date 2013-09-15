@@ -1,21 +1,16 @@
 package com.football.wars.activities;
 
-import android.app.Activity;
 import android.content.Intent;
-import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import com.football.wars.R;
 
-public class MainActivity extends Activity {
-
-	private MediaPlayer buttonClick;
+public class MainActivity extends AbstractActivity {
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main_menu);
-		buttonClick = MediaPlayer.create(this, R.raw.button_click);
 	}
 
 	@Override
